@@ -59,7 +59,7 @@ SPEDDING FINES REPORT
 JHB	128km	135km	139km	
 DBN	155km	129km	175km	
 CTN	129km	130km	185km	
-PE	195km	155km	221km	
+PE	   195km 155km	221km	
 ******************************
 SPEEDING FINES STATISTICS
 ******************************
