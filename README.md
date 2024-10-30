@@ -9,7 +9,6 @@ This Java-based program displays and analyzes the highest and lowest monthly spe
 - [Setup and Execution](#setup-and-execution)
 - [Code Structure](#code-structure)
 - [Example Output](#example-output)
-- [Author](#author)
 
 ## Problem Description
 The goal of this project is to create a Java console application that displays the three highest monthly speeding fines recorded for four different cities: Johannesburg (JHB), Durban (DBN), Cape Town (CTN), and Port Elizabeth (PE). The program will display a report with the highest and lowest speeding fines for all cities combined.
