@@ -55,7 +55,7 @@ The goal of this project is to create a Java console application that displays t
 ******************************
 SPEDDING FINES REPORT
 ******************************
-      JAN	  FEB	  MAR
+       JAN   FEB   MAR
 JHB	128km	135km	139km	
 DBN	155km	129km	175km	
 CTN	129km	130km	185km	
